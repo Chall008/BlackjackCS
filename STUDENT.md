@@ -1,4 +1,4 @@
-# BlackjackCS
+# BlackJackCS
 
 ## To push to github
 

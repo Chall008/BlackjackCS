@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BlackjackCS
+namespace BlackJackCS
 {
   class Program
   {
